@@ -60,10 +60,14 @@ docs/
     upcoming_completed.jpg
 ```
 
-![Home](docs/screenshots/home.jpg)
-![Set Reminder](docs/screenshots/set_reminder.jpg)
-![Notification](docs/screenshots/notification.jpg)
-![Upcoming & Completed](docs/screenshots/upcoming_completed.jpg)
+<p align="center">
+  <img src="docs/screenshots/home.jpg" alt="Home" width="280"/>
+  <img src="docs/screenshots/set_reminder.jpg" alt="Set Reminder" width="280"/>
+</p>
+<p align="center">
+  <img src="docs/screenshots/notification.jpg" alt="Notification" width="280"/>
+  <img src="docs/screenshots/upcoming_completed.jpg" alt="Upcoming & Completed" width="280"/>
+</p>
 
 ### Project structure (current)
 - `lib/main.dart` — UI and state management for scheduling and logs.
