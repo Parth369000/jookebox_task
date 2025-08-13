@@ -48,6 +48,23 @@ Run widget tests:
 flutter test
 ```
 
+### Screenshots
+Place images under `docs/screenshots/` (create the folders if they don't exist) and they will render below. Example filenames are used here; replace with your own image files.
+
+```text
+docs/
+  screenshots/
+    home.jpg
+    set_reminder.jpg
+    notification.jpg
+    upcoming_completed.jpg
+```
+
+![Home](docs/screenshots/home.jpg)
+![Set Reminder](docs/screenshots/set_reminder.jpg)
+![Notification](docs/screenshots/notification.jpg)
+![Upcoming & Completed](docs/screenshots/upcoming_completed.jpg)
+
 ### Project structure (current)
 - `lib/main.dart` — UI and state management for scheduling and logs.
 - `lib/reminders/...` — (optional) place for models/services/utils if you split code in the future.
